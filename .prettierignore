@@ -1,0 +1,13 @@
+# Add files here to ignore them from prettier formatting
+/dist
+/coverage
+/.nx/cache
+node_modules/
+dist/
+build/
+public/
+.yarn/
+.idea/
+.turbo/
+*.log
+*.hbs
